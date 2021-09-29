@@ -32,7 +32,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="5dp"
-                android:backgroundTint="#E43535"
+                android:backgroundTint="@color/red1"
                 android:textSize="30sp" />
 
             <Button
@@ -40,7 +40,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:textSize="30sp"
-                android:backgroundTint="#E43535"
+                android:backgroundTint="@color/red1"
                 android:layout_margin="5dp" />
 
             <Button
@@ -48,7 +48,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:textSize="30sp"
-                android:backgroundTint="#E43535"
+                android:backgroundTint="@color/red1"
                 android:layout_margin="5dp" />
 
 
@@ -61,7 +61,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:textSize="30sp"
-                android:backgroundTint="#E43535"
+                android:backgroundTint="@color/red1"
                 android:layout_margin="5dp" />
 
             <Button
@@ -69,7 +69,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:textSize="30sp"
-                android:backgroundTint="#E43535"
+                android:backgroundTint="@color/red1"
                 android:layout_margin="5dp" />
 
             <Button
@@ -77,7 +77,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:textSize="30sp"
-                android:backgroundTint="#E43535"
+                android:backgroundTint="@color/red1"
                 android:layout_margin="5dp" />
 
 
@@ -90,7 +90,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:textSize="30sp"
-                android:backgroundTint="#E43535"
+                android:backgroundTint="@color/red1"
                 android:layout_margin="5dp" />
 
             <Button
@@ -98,7 +98,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:textSize="30sp"
-                android:backgroundTint="#E43535"
+                android:backgroundTint="@color/red1"
                 android:layout_margin="5dp" />
 
             <Button
@@ -106,7 +106,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:textSize="30sp"
-                android:backgroundTint="#E43535"
+                android:backgroundTint="@color/red1"
                 android:layout_margin="5dp" />
 
 
